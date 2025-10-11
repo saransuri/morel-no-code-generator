@@ -1,3 +1,7 @@
+# Mobile Open Resilient Electronic Libraries
+
+MOREL is a simple, blog-aware, static site generator to create Mobile, Open, Resilient, Electronic Libraries. MOREL takes simple bibliographic collections, runs them through the Jekyll site generator, and creates a static website ready to be served for free by Github pages. MOREL sites can also be published through freemium deployment services such as Netlify, and through commercial or institutional servers. MOREL is perfect to create personal, project, or organization archives, using third party storage on services such as Archive.org.
+
 # Instructions to install the theme
 
 ## Install {#install}
