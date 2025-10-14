@@ -19,10 +19,13 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: '3.12.3'  # ← match your local Python version if needed
+      
+      
       - name: Create venv
         run: |
           python -m venv assets/env
           assets/env/bin/python -m pip install --upgrade pip setuptools wheel
+          assets/env/bin/pip install -r requirements.txt
 
       - name: Run generator
         run: assets/env/bin/python assets/env/src/morel-generate.py
