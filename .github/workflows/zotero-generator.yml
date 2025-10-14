@@ -26,7 +26,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run generator
-        run: python assets/env/src/copy_about.py
+        run: python assets/env/src/morel-generate.py
         # ↑ update the path to your actual script and/or input file if different
 
       # Optional: commit and push generated content if the script changes files
