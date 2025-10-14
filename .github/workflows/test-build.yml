@@ -3,7 +3,9 @@ name: Test Jekyll Build
 on:
   push:
     branches:
-      - test-gh-actions
+      - main
+    paths:
+      - 'assets/data/books_zotero.csv'
 
 jobs:
   build:
