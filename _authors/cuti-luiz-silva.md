@@ -1,3 +1,3 @@
 ---
-title: «Cuti», Luiz Silva
+title: Cuti, Luiz Silva
 ---
