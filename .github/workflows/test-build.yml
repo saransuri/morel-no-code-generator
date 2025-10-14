@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'assets/data/books_zotero.csv'
+      - '_config.yml'
 
 jobs:
   build:
