@@ -2,7 +2,7 @@
 title: description
 lang: en
 ---
-MOREL generates web sites from bibliographic collections. The MOREL sites gather book covers, excerpts, bibliographic clues, metadata and digital downloads from items stored in the Zotero reference manager.
+This is a no-code test to build a site with MOREL. MOREL generates web sites from bibliographic collections. The MOREL sites gather book covers, excerpts, bibliographic clues, metadata and digital downloads from items stored in the Zotero reference manager.
 
 <!-- more -->
 
