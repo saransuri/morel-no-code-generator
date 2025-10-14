@@ -25,7 +25,7 @@ jobs:
           assets/env/bin/python -m pip install --upgrade pip setuptools wheel
 
       - name: Run generator
-        run: assets/env/bin/python assets/env/src/copy_about.py
+        run: assets/env/bin/python assets/env/src/morel-generate.py
         # ↑ update the path to your actual script and/or input file if different
 
       # Optional: commit and push generated content if the script changes files
