@@ -1,3 +1,0 @@
----
-title: Albújar, Enrique López
----
