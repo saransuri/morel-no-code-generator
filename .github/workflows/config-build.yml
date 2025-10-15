@@ -27,6 +27,33 @@ jobs:
 
       - name: Build Jekyll site
         run: bundle exec jekyll build
+
+      - name: Debug - list built _site
+        run: |
+          echo "=== _site listing ==="
+          ls -la _site | sed -n '1,200p'
+          echo "=== recursive listing (first 200 lines) ==="
+          find _site -maxdepth 4 -type f | sed -n '1,200p'
+          # optional: full recursive if you want everything
+          # find _site -type f | sed -n '1,500p'
+
+
+      - name: Debug - list remote gh-pages files (pre-deploy)
+        run: |
+          git fetch origin gh-pages --depth=1 || true
+          echo "=== remote gh-pages tree (top 200) ==="
+          git ls-tree -r origin/gh-pages --name-only | sed -n '1,200p' || echo "no gh-pages branch"
+
+
+      - name: Debug - list remote gh-pages files (post-deploy)
+        run: |
+          git fetch origin gh-pages --depth=1 || true
+          echo "=== remote gh-pages tree after deploy (top 200) ==="
+          git ls-tree -r origin/gh-pages --name-only | sed -n '1,200p'
+
+
+
+
         
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
