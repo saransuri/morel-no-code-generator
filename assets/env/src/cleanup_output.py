@@ -33,6 +33,4 @@ def delete_generated_files():
     if files_deleted:
         print("Generated files deleted successfully.")
 
-if __name__ == "__main__":
-    delete_generated_files()
-
+delete_generated_files()
