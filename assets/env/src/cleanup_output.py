@@ -10,7 +10,6 @@ FOLDERS_TO_CLEAN = [
     os.path.join(BASE_DIR, "_repositories"),
     os.path.join(BASE_DIR, "assets/img"),
     os.path.join(BASE_DIR, "_data"),
-    os.path.join(BASE_DIR, "assets/data"),
 ]
 ZIP_FILE = os.path.join(BASE_DIR, "output.zip")
 
@@ -34,5 +33,4 @@ def delete_generated_files():
     if files_deleted:
         print("Generated files deleted successfully.")
 
-if __name__ == "__main__":
-    delete_generated_files()
+delete_generated_files()
