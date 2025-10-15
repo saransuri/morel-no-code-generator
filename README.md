@@ -11,6 +11,6 @@
   - The `jotform` link (create your free account at https://www.jotform.com/).
 - **Go to the `settings` tab**, open the `pages` section, and select `gh-pages` as the branch that will build the site.
 - **Open the file `_abouts/site-description.md`** and write a description for your site. The `<!-- more -->` line separates what appears in the footer across all pages from the longer description that appears on the `about` page only.
-- **Generate the content from Zotero** by exporting a collection, subcollection or library as a csv file, and replacing the content of `assets/data/books_zotero.csv`
+- **Generate the content from Zotero** by exporting a collection, subcollection or library as a `csv` file, and replacing the content of `assets/data/books_zotero.csv`
 
 
