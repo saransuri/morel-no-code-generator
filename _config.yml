@@ -1,9 +1,9 @@
-title: ALAWiT Test # Write here the name of your site
-tagline: Test for a no-code creation of an Afro-Latin American in Translation MOREL website
+title: MOREL no-code generator # Write here the name of your site
+tagline: Test for a no-code-generated site, built from a Zotero collection
 img: logo.png # Add a file with a copy of your site's logo on /assets/img/tema
 background: pattern.png # Add a file with a copy of your site's pattern on /assets/img/tema
 image : avatar.png  # Add a file with a copy of your site's avatar on /assets/img/tema
-email : sanchez@gmail.com
+email : proyectomorel@gmail.com
 github : 
 twitter : 
 instagram:
