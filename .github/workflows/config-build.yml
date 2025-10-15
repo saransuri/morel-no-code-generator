@@ -27,12 +27,32 @@ jobs:
 
       - name: Build Jekyll site
         run: bundle exec jekyll build
+
+      - name: Clean gh-pages branch (remove old files)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          git fetch origin gh-pages --depth=1 || true
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+      
+          if git show-ref --verify --quiet refs/remotes/origin/gh-pages; then
+            # create an orphan branch with no files and force push it to gh-pages
+            git checkout --orphan tmp-clean
+            git rm -rf .
+            git commit --allow-empty -m "chore: clean gh-pages before publish [skip ci]" || true
+            git push --force origin tmp-clean:gh-pages
+            git checkout -  # return to previous branch
+            git branch -D tmp-clean || true
+          else
+            echo "gh-pages does not exist yet; nothing to clean"
+          fi
+
         
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
-          publish_branch: gh-pages
-          force_orphan: true       # <<< makes branch contain only the new files
 
