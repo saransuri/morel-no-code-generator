@@ -146,6 +146,13 @@
             </url>
             
             <url>
+                <loc>/authors/alvarado-francisco-de</loc>
+                <lastmod>2025-10-15</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.5</priority>
+            </url>
+            
+            <url>
                 <loc>/authors/alves-miriam-aparecida</loc>
                 <lastmod>2025-10-15</lastmod>
                 <changefreq>weekly</changefreq>
@@ -223,6 +230,13 @@
             </url>
             
             <url>
+                <loc>/authors/catholic-church</loc>
+                <lastmod>2025-10-15</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.5</priority>
+            </url>
+            
+            <url>
                 <loc>/authors/chagas-jorge</loc>
                 <lastmod>2025-10-15</lastmod>
                 <changefreq>weekly</changefreq>
@@ -258,7 +272,49 @@
             </url>
             
             <url>
+                <loc>/authors/franciscans</loc>
+                <lastmod>2025-10-15</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.5</priority>
+            </url>
+            
+            <url>
+                <loc>/authors/molina-alonso-de</loc>
+                <lastmod>2025-10-15</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.5</priority>
+            </url>
+            
+            <url>
+                <loc>/authors/of-nazianzus-saint-gregory</loc>
+                <lastmod>2025-10-15</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.5</priority>
+            </url>
+            
+            <url>
+                <loc>/authors/ovid</loc>
+                <lastmod>2025-10-15</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.5</priority>
+            </url>
+            
+            <url>
+                <loc>/authors/sala-i-vila-nuria</loc>
+                <lastmod>2025-10-15</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.5</priority>
+            </url>
+            
+            <url>
                 <loc>/authors/santos-garcia-emiro</loc>
+                <lastmod>2025-10-15</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.5</priority>
+            </url>
+            
+            <url>
+                <loc>/authors/taix-geroni</loc>
                 <lastmod>2025-10-15</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.5</priority>
@@ -270,6 +326,13 @@
             
             <url>
                 <loc>/books/cancion-negra-sin-color-arozarena-1966</loc>
+                <lastmod>2025-10-15</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.5</priority>
+            </url>
+            
+            <url>
+                <loc>/books/confesionario-breve-en-lengua-molina-1577</loc>
                 <lastmod>2025-10-15</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.5</priority>
@@ -291,6 +354,13 @@
             
             <url>
                 <loc>/books/cumboto-diaz-sanchez-1969</loc>
+                <lastmod>2025-10-15</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.5</priority>
+            </url>
+            
+            <url>
+                <loc>/books/de-tristibus-quam-de-ovid-1577</loc>
                 <lastmod>2025-10-15</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.5</priority>
@@ -326,6 +396,13 @@
             
             <url>
                 <loc>/books/hombres-curtidos-duncan-1971</loc>
+                <lastmod>2025-10-15</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.5</priority>
+            </url>
+            
+            <url>
+                <loc>/books/institucion-modo-de-rezar-taix-1576</loc>
                 <lastmod>2025-10-15</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.5</priority>
@@ -395,6 +472,20 @@
             </url>
             
             <url>
+                <loc>/books/regla-de-los-frailes-franciscans-1595</loc>
+                <lastmod>2025-10-15</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.5</priority>
+            </url>
+            
+            <url>
+                <loc>/books/revueltas-indigenas-en-el-sala-i-vila-1989-12-20</loc>
+                <lastmod>2025-10-15</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.5</priority>
+            </url>
+            
+            <url>
                 <loc>/books/ritmoheroe-bernard-1996</loc>
                 <lastmod>2025-10-15</lastmod>
                 <changefreq>weekly</changefreq>
@@ -438,6 +529,13 @@
             
             <url>
                 <loc>/books/the-sad-end-of-barreto-2014</loc>
+                <lastmod>2025-10-15</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.5</priority>
+            </url>
+            
+            <url>
+                <loc>/books/vocabulario-en-lengua-mixteca-alvarado-1593</loc>
                 <lastmod>2025-10-15</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.5</priority>
@@ -592,6 +690,13 @@
             </url>
             
             <url>
+                <loc>/cities/mexico-country-mexico-country</loc>
+                <lastmod>2025-10-15</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.5</priority>
+            </url>
+            
+            <url>
                 <loc>/cities/montevideo</loc>
                 <lastmod>2025-10-15</lastmod>
                 <changefreq>weekly</changefreq>
@@ -669,6 +774,13 @@
             
             <url>
                 <loc>/publishers/azul</loc>
+                <lastmod>2025-10-15</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.5</priority>
+            </url>
+            
+            <url>
+                <loc>/publishers/balli-pedro</loc>
                 <lastmod>2025-10-15</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.5</priority>
@@ -794,6 +906,13 @@
             </url>
             
             <url>
+                <loc>/publishers/ricardo-antonio</loc>
+                <lastmod>2025-10-15</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.5</priority>
+            </url>
+            
+            <url>
                 <loc>/publishers/rumbo-editorial</loc>
                 <lastmod>2025-10-15</lastmod>
                 <changefreq>weekly</changefreq>
@@ -809,6 +928,13 @@
             
             <url>
                 <loc>/publishers/sociedad-cultural-editora-indoamericana</loc>
+                <lastmod>2025-10-15</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.5</priority>
+            </url>
+            
+            <url>
+                <loc>/publishers/universitat-de-barcelona</loc>
                 <lastmod>2025-10-15</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.5</priority>
@@ -841,6 +967,48 @@
             
             <url>
                 <loc>/repositories/biblioteca-basica-de-cultura-colombiana</loc>
+                <lastmod>2025-10-15</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.5</priority>
+            </url>
+            
+            <url>
+                <loc>/repositories/biblioteca-eusebio-francisco-kino-instituto-libre-de-filosofia-y-ciencias-a-c</loc>
+                <lastmod>2025-10-15</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.5</priority>
+            </url>
+            
+            <url>
+                <loc>/repositories/biblioteca-francisco-de-burgoa-universidad-autonoma-benito-juarez-de-oaxaca</loc>
+                <lastmod>2025-10-15</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.5</priority>
+            </url>
+            
+            <url>
+                <loc>/repositories/biblioteca-francisco-xavier-clavigero-universidad-iberoamericana</loc>
+                <lastmod>2025-10-15</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.5</priority>
+            </url>
+            
+            <url>
+                <loc>/repositories/biblioteca-general-historica-universidad-de-salamanca</loc>
+                <lastmod>2025-10-15</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.5</priority>
+            </url>
+            
+            <url>
+                <loc>/repositories/biblioteca-nacional-de-mexico</loc>
+                <lastmod>2025-10-15</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.5</priority>
+            </url>
+            
+            <url>
+                <loc>/repositories/biblioteca-palafoxiana</loc>
                 <lastmod>2025-10-15</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.5</priority>
