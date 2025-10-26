@@ -13,3 +13,4 @@ assets/env/share
 assets/env/src/__pycache__
 pyvenv.cfg
 *.zip
+assets/env/lib64
