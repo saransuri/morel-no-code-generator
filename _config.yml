@@ -1,14 +1,14 @@
-title: MOREL no-code generator # Write here the name of your site
-tagline: Sample of a no-code-generated site, built from a Zotero collection
-img: logo.png # Add a file with a copy of your site's logo on /assets/img/tema
-background: pattern.png # Add a file with a copy of your site's pattern on /assets/img/tema
+title: MOREL no-code website generator # Write here the name of your site
+tagline: Transform your bibliographic collection into a searchable, responsive, light website # Write here your site tagline
+img: logo.png # Add a file with your site's logo on /assets/img/tema
+background: pattern.png # Add a file with your site's pattern on /assets/img/tema
 image : avatar.png  # Add a file with a copy of your site's avatar on /assets/img/tema
 email : proyectomorel@gmail.com
-github : 
+github : morelrep
 twitter : 
 instagram:
 remote_theme: morelrep/morel-theme
-podcast:
+podcast: true # Set to true if you want to enable podcast or blog support
 jotform: https://form.jotform.com/211904785426056
 
 # If you want to change the name of the repo, update the BASE_PATH name. Also, if you are going to use the MOREL repo as your main github page (e.g. `myuser.github.io`) comment this line
