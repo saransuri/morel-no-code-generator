@@ -1,3 +1,0 @@
----
-title: Borges, Jorge Luis
----
