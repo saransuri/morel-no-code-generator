@@ -22,8 +22,8 @@
 # Other features
 To add cover images to your MOREL site, follow these steps:
 1. Add a cover image to your item in your Zotero library by dragging it as an attachment
-2. Open your terminal in the MOREL folder
-3. Create a Python environment using ```python3 -m venv assets/env```
+2. Clone the repository in a local folder
+3. Create a Python environment from the root of the folder using ```python3 -m venv assets/env```
 4. Run ```source assets/env/bin/activate```
 5. Run ```pip install r requirements.txt``
 6. Export your library or collection from Zotero as .csv file, and save it as `assets/data/books_zotero.csv`. Remember to check the "add notes" option to add excerpts.
@@ -31,5 +31,5 @@ To add cover images to your MOREL site, follow these steps:
 # To add cover images with no code
 For a MOREL no-code generator with cover images drawn from a Zotero library you can:
 
-- [request an invoice](mailto:proyectomorel@gmail.com) for a customized service
-- [promote this project](https://www.addtoany.com/share#url=http%3A%2F%2F127.0.0.1%3A4000%2Fmorel-no-code-generator%2F&title=%7C%20MOREL%20no-code%20website%20generator) to find code contributors that help develping this feature.
+- [Request an invoice](mailto:proyectomorel@gmail.com) for a customized service
+- [Promote this project](https://www.addtoany.com/share#url=http%3A%2F%2F127.0.0.1%3A4000%2Fmorel-no-code-generator%2F&title=%7C%20MOREL%20no-code%20website%20generator) to find code contributors that help develping this feature.
