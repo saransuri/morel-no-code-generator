@@ -27,7 +27,9 @@ To add cover images to your MOREL site, follow these steps:
 4. Run ```source assets/env/bin/activate```
 5. Run ```pip install r requirements.txt``
 6. Export your library or collection from Zotero as .csv file, and save it as `assets/data/books_zotero.csv`. Remember to check the "add notes" option to add excerpts.
-7. Run ```python3 assets/env/src/morel-generate.py``` 
+7. Run ```python3 assets/env/src/morel-generate.py```
+8. Commit your changes **adding "```[skip ci]```" to the commit message.
+9. Push your changes to GitHub.
 # To add cover images with no code
 For a MOREL no-code generator with cover images drawn from a Zotero library you can:
 
