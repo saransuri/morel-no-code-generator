@@ -1,6 +1,6 @@
 ---
 title: "Confesionario breve, en lengua mexicana y castellana"
-key: "RSGCB9WN"
+key: "EYRY9SZP"
 author: Molina, Alonso de
 ---
-<div data-schema-version="8"><p>Abbreviated script for priests administering the sacrament of confession to Indigenous people. It includes the priest's initial admonition, then questions they should ask before the confession, on the Ten Commandments, to each gender, to married persons, to local officials, and on the seven mortal sins, concluding with an admonition.| Collation formula: a¹⁰. Format: 8o. Height: 22 cm. Binding: Dutch in leather and paper. Illustrations: Woodcut on the title page of Christ in a press and vignettes. Type: Gothic.</p> </div>
+<div data-schema-version="8"><p>Rules of the Order of San Francisco, or the Franciscan Order, with papal mandates that govern the lives of the friars. It also includes the last will and testament of San Francisco.| Collation formula: A-E⁸, F². Format: 8o. Height: 21 cm. Binding: Leather on cardboard. Marginalia: None. Illustrations: Woodcut of the stigmata of Saint Francis of Assisi on the title page and initials. Type: Roman.</p> </div>
